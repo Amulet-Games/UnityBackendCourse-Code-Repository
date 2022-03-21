@@ -1,6 +1,6 @@
-# UnityBackendCourse-Code-Repository
+# UnitySqlDatabaseCourse-Code-Repository
 
-Open-Source Code from my result of Austin Patkos's "Unity + SQL Databases Course".<br/>
+Open-Source Code from my result of Austin Patkos's "Unity + SQL Databases... Course".<br/>
 
 **About:** <br/>
 A course project that teaches how to use MySql, Php and Json in Unity to create User Registeration, Login and Leaderboard.<br/>
